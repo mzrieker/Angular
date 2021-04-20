@@ -1,6 +1,6 @@
-# Pw
+# PW (Password Generator)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9. It is currently beng hosted via Vercel [here](https://pw-kohl-beta.vercel.app)
 
 ## Development server
 
