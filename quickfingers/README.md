@@ -1,6 +1,6 @@
 # Quickfingers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9. Currently being hosted via Vercel [here.](https://quickfingers.vercel.app/)
 
 ## Development server
 
