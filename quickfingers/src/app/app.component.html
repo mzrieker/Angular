@@ -1,6 +1,6 @@
 <div class="container">
   <div class="columns is-centered">
-    <div class="box column is-one-third">
+    <div class="box column is-one-third" style="height: max-content;">
       <h1 class="title has-text-centered">Quickfinger Typing Challenge</h1>
 
       <p class="has-text-centered">
@@ -15,8 +15,9 @@
         <input class="input" (input)="onInput($any($event.target).value)" />
       </div>
 
-      <div *ngIf="userText === randomText" class="box has-text-centered">
+      <div *ngIf="userText === randomText" class="box has-text-centered" >
         <h1 class="title">Success!</h1>
+        <iframe class="iframe-container" [src]="urlSafe"></iframe>
       </div>
     </div>
   </div>
